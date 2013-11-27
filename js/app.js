@@ -1,8 +1,10 @@
 /**
- * Created by JetBrains WebStorm.
+ * Created by JetBrains WebStorm Edited by Luardo.
  * User: bjorn
  * Date: 3/4/12
  * Time: 10:59 PM
+ * 
+ * Luardo edited 27.11.2013
  */
 
 (function ($) {
